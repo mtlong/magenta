@@ -42,7 +42,7 @@ REQUIRED_PACKAGES = [
     'Pillow >= 3.4.2',
     'pretty_midi >= 0.2.6',
     'pygtrie >= 2.3',
-    'python-rtmidi >= 1.1, < 1.2',  # 1.2 breaks us
+#    'python-rtmidi >= 1.1, < 1.2',  # 1.2 breaks us
     'scikit-image',
     'scipy >= 0.18.1',
     'six >= 1.12.0',
